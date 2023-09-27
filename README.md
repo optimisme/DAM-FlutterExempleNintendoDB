@@ -12,6 +12,5 @@ flutter pub upgrade  &&
 flutter pub get
 ```
 
-
 # Personal
 export PATH="$PATH:${HOME}/Documents/Projects/flutter/flutter/bin/"
